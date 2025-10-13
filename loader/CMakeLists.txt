@@ -68,6 +68,7 @@ endif()
 set(NORMAL_LOADER_SRCS
     allocation.c
     allocation.h
+    asm_offsets.c
     cJSON.c
     cJSON.h
     debug_utils.c
